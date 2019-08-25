@@ -1,0 +1,20 @@
+{
+  "name": "constructorwordguess",
+  "version": "1.0.0",
+  "description": "A conosle-based 'Hangman' type of game",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbpkp07/ConstructorWordGuess.git"
+  },
+  "author": "Jeremy Barnes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jbpkp07/ConstructorWordGuess/issues"
+  },
+  "homepage": "https://github.com/jbpkp07/ConstructorWordGuess#readme",
+  "dependencies": {
+    "inquirer": "^7.0.0",
+    "terminal-kit": "^1.31.1"
+  }
+}
