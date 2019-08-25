@@ -3,6 +3,7 @@
 
 const terminal = require("terminal-kit").terminal;
 
+
 function printHeader() {
 
     terminal.reset();
