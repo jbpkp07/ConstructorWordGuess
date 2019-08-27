@@ -139,7 +139,7 @@ class WordGuessGame {
 
         terminal("\n\n");
 
-        terminal.brightCyan("   Cateory         ").brightWhite(":  ");
+        terminal.brightCyan("   Category        ").brightWhite(":  ");
 
         terminal.gray(this.currentPhrase.category);
 
