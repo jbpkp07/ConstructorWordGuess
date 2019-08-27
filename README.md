@@ -23,7 +23,7 @@ I am the sole developer of this application.
 
 ### Screenshots:
 
-![screenshot](https://github.com/jbpkp07/LIRI/blob/master/images/concert-this.png)
+![screenshot](https://github.com/jbpkp07/ConstructorWordGuess/blob/master/images/screenshot.png)
 
-![validation](https://github.com/jbpkp07/LIRI/blob/master/images/spotify-this-song.png)
+![validation](https://github.com/jbpkp07/ConstructorWordGuess/blob/master/images/validation.png)
 
