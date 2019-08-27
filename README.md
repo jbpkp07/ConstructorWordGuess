@@ -1,4 +1,4 @@
-# Computer Hangman
+# Computer Hangman CLI Edition
 
 This is a command-line application that runs a javascript program in the Node.js environment. It is a remake of the classic game "Hangman", with a computer-based theme!
 
@@ -23,7 +23,7 @@ I am the sole developer of this application.
 
 ### Screenshots:
 
-![screenshot](https://github.com/jbpkp07/LIRI/blob/master/images/concert-this.png)
+![screenshot](https://github.com/jbpkp07/ConstructorWordGuess/blob/master/images/screenshot.png)
 
-![validation](https://github.com/jbpkp07/LIRI/blob/master/images/spotify-this-song.png)
+![validation](https://github.com/jbpkp07/ConstructorWordGuess/blob/master/images/validation.png)
 
