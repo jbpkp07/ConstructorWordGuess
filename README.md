@@ -1,4 +1,4 @@
-# Computer Hangman
+# Computer Hangman CLI Edition
 
 This is a command-line application that runs a javascript program in the Node.js environment. It is a remake of the classic game "Hangman", with a computer-based theme!
 
