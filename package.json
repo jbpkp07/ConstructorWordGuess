@@ -15,6 +15,6 @@
   "homepage": "https://github.com/jbpkp07/ConstructorWordGuess#readme",
   "dependencies": {
     "inquirer": "^7.0.0",
-    "terminal-kit": "^1.31.1"
+    "terminal-kit": "^3.0.0"
   }
 }
